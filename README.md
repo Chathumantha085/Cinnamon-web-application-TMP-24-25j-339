@@ -1,8 +1,8 @@
 Data-Driven Solutions for cinnamon Agriculturists to Optimizing operations and Quality Enhancement is provide a more efficient, convenient system for cinnamon cultivators and people who are interested in this industry. Our solution aims to address the current limitations, Obstacles and challenges faced by the cinnamon cultivation, including traditional methods to cinnamon grading system, most of cultivators who entered to this cinnamon cultivation have no proper idea about their cinnamon cultivation also there is no technology based withering system and end of their process there is very difficult to get an idea about their market.
 So, the solution involves developing a new web base software that will incorporate features such as Guiding to Harvest Healthy Cinnamon plant, Measuring the quality of cinnamon bark and separate into grades, introduce smart weathering system for Cinnamon Drying Operations and Develop a digital assistant for cinnamon market prediction
 
-The conceptual diagram of solution can visualize as follows;
-![conceptual diagram ](https://github.com/user-attachments/assets/8472ff09-e156-44c4-b4bf-e2697a857231)
+The architectural diagram of solution can visualize as follows;
+![architectural](https://github.com/user-attachments/assets/32390bb3-c9c6-45da-b46b-68896a1ff361)
 
 Guiding to Harvest Healthy Cinnamon plant growth for cultivators: In this system will give unique recommendation and suggestions using plant images.so cultivators can get good idea about their cultivation.
 
