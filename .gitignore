@@ -85,3 +85,7 @@ temp/
 # Ignore TensorFlow/Keras model files
 *.h5
 *.pb
+*.cmd
+/node_modules/.bin
+/node_modules/.vite
+/node_modules
