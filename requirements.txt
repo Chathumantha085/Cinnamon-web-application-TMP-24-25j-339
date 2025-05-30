@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 fastapi
 uvicorn
 # sqlalchemy
@@ -9,4 +10,17 @@ pillow
 joblib
 pandas
 python-multipart
+=======
+fastapi
+uvicorn
+# sqlalchemy
+# mysql-connector-python
+pydantic
+tensorflow
+pillow
+# pydantic[email]
+joblib
+pandas
+python-multipart
+>>>>>>> Stashed changes
 scikit-learn
